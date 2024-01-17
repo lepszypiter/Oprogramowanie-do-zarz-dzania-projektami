@@ -1,1 +1,1 @@
-# Oprogramowanie-do-zarz-dzania-projektami
+# Oprogramowanie-do-zarządzania-projektami
